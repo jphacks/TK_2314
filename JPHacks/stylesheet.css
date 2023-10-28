@@ -1,0 +1,43 @@
+.title {
+    text-align:center;
+    padding:100px;
+
+}
+
+.button{
+    display:flex;
+}
+
+.recipe{
+    display:flex;
+    margin:0 auto;
+}
+
+.Register{
+    display:flex;
+    margin:0 auto;
+}
+
+body{
+    display:flex;
+    flex-direction:column;
+}
+
+header{
+    height:100px;
+    width:100%;
+    background-color:rgb(127, 255, 212);
+    position:fixed;
+    top:10;
+    left:40;
+    z-index:10;
+}
+
+
+
+footer{
+    height:100px;
+    background-color:rgb(105,105,105);
+    position:fixed;
+    bottom:0;
+}
