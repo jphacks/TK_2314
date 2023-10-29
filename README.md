@@ -34,3 +34,4 @@ GUIで使えるように頑張った（何も知らなかったため大変だ�
 
 #### デバイス
 * パソコン、スマートフォン
+https://youtu.be/NfUg0xQ2FsQ?si=lPeqlhoqqoUhjGh2
